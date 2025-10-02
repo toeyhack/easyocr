@@ -1,0 +1,4 @@
+easyocr
+Pillow
+gradio
+pdf2image
